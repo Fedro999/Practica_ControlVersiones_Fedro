@@ -1,0 +1,1 @@
+print("Hola, mundo. Mi primera práctica con Git.")
